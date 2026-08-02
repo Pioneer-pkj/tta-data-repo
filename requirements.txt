@@ -1,0 +1,7 @@
+apache-airflow==2.9.3
+apache-airflow-providers-google==10.20.0
+apache-beam[gcp]==2.57.0
+google-cloud-bigquery>=3.25.0
+google-cloud-storage>=2.18.0
+google-cloud-aiplatform>=1.60.0
+pypdf>=4.3.0
